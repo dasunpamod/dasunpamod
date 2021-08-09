@@ -45,7 +45,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 # MOST USED LANGUAGES
 
  <a href="https://github.com/dasunpamod" align = "center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunpamod" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunpamod&show_icons=true&hide_border=true" />
 </a> 
 
 
