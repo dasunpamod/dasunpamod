@@ -73,3 +73,58 @@ Reach out to me 👓
 |<a href="https://twitter.com/Dasun03571140"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/dasunpamod"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/dasun.pamod.1"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="#"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Languages and Tools:**
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="25" src="https://i.pinimg.com/originals/9c/76/5c/9c765c3b37eb5bdf9af0984eef4351dd.jpg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="25" src="https://blog.scottlogic.com/jporter/assets/kotlin-logo.png"></code>
+<code><img height="25" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/bash/bash.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+<div>
+<img height="70" align = "center" width=100% src="https://github-profile-trophy.vercel.app/?username=John-Kener&column=7"/>
+</div>
+
+<br>
+
+<a href="https://github.com/john-kener"><img title="John-kener" src="https://github-readme-stats.vercel.app/api?username=john-kener&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
+
+<a href="https://github.com/john-kener" align = "center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-kener&hide=php&theme=chartreuse-dark" />
+</a>
+
+</br>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+</br>
