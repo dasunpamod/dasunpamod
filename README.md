@@ -36,11 +36,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 -->
 
  # github readme stats 
-<p>
-  <a href="https://github.com/dasunpamod/">
-    <img width="50%" align="right" alt="Dasun's github stats" src="https://github-readme-stats.vercel.app/api?username=dasunpamod&show_icons=true&hide_border=true" />
-  </a>
-  
+
 <p align="left">
   <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
     <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=dasunpamod" />
