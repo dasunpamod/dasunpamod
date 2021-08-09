@@ -35,7 +35,7 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 
- # github readme stats 
+ # github stats 
 
 <p>
   <a href="https://github.com/dasunpamod/" align = "center" >
@@ -53,13 +53,19 @@ Both apis are in trouble due to the number of requests, if you know any other to
 # Follow me on
 
 <p align="left">
+<a href="https://t.me/dasun_pamod" target="blank"><img align="center" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-instagram.png?w=585&scale=down" alt="dasun_pamod" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/dasun_pamod/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63133683/126860125-4e62b038-c581-4461-84d6-47b754105a02.png" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/Dasun03571140" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/dasun.pamod.1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Dasun PAmod8" height="40" width="40" /></a> &nbsp;&nbsp;
+</p>
+---
+<p align="left">
 <a href="https://t.me/dasun_pamod" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="dasun_pamod" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/dasun_pamod/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63133683/126860125-4e62b038-c581-4461-84d6-47b754105a02.png" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/Dasun03571140" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/dasun.pamod.1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Dasun PAmod8" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 ---
-
 
 Reach out to me 👓
 
