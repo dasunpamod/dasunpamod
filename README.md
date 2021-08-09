@@ -24,14 +24,7 @@ You can use the website to generate badges: https://shields.io/
 - ⚡️ Fun-Fact: I'm Still Student;
 - 📫 How to reach me: https://t.me/dasun_pamod dasunpamod123@gmail.com
 ;
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
-  <a href="https://github.com/dasunpamod/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=dasunpamod&show_icons=true&hide_border=true" />
-  </a>
-  
+
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
@@ -53,6 +46,12 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/63133683/126859569-0d58ce47-5148-492e-9f8e-06958bb1b99f.gif" />
 
+  <!-- Your github readme stats -->
+<p>
+  <a href="https://github.com/dasunpamod/">
+    <img width="50%" align="right" alt="Dasun's github stats" src="https://github-readme-stats.vercel.app/api?username=dasunpamod&show_icons=true&hide_border=true" />
+  </a>
+  
 
 # Follow me on
 
