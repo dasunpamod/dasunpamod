@@ -16,9 +16,12 @@
 </p>
 
 
-<p>
+
+ 
 # Talking about Personal Things.
 
+<p>
+ 
 <img width="50%" align="center" alt="Github" src="https://user-images.githubusercontent.com/63133683/126859565-d11ba7e3-9ab0-4731-bf0b-42424ccff05c.gif" />
 
 - 👨🏽‍💻 I’m currently working on School Works! 
