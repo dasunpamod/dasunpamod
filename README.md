@@ -35,12 +35,6 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 
-
-# MOST USED LANGUAGES
-
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=dasunpamod)
-
-
   <!-- Your github readme stats -->
 <p>
   <a href="https://github.com/dasunpamod/">
@@ -53,6 +47,12 @@ Both apis are in trouble due to the number of requests, if you know any other to
 </p>
   
  <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/63133683/126859569-0d58ce47-5148-492e-9f8e-06958bb1b99f.gif" />
+
+# MOST USED LANGUAGES
+
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=dasunpamod)
+
+
 
 
 # Follow me on
