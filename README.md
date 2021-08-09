@@ -27,7 +27,7 @@ You can use the website to generate badges: https://shields.io/
 
 <a href="https://t.me/dasun_pamod"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-<a href="https://t.me/dasun_pamod"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png"></a>
+<a href="https://t.me/dasun_pamod"><img src="https://img.shields.io/badge/gmail-2CA5E0?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
