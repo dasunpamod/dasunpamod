@@ -61,7 +61,9 @@ Both apis are in trouble due to the number of requests, if you know any other to
 ---
 
 
-Reach out to me 👓
+# Contact Me
+
+<a href="https://t.me/dasun_pamod"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 |  <a href="https://t.me/dasun_pamod/"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" width="500px" height="120px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
