@@ -1,14 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Dasun Pamod , a Developer from Sri Lanka 🇱🇰.
-
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dasunpamod)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/dasun_pamod/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Dasun__Pamod:dasunpamod4@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:dasunpamod4@gmail.com)
+## Hi, I'm Dasun Pamod , A Developer from Sri Lanka 🇱🇰.
 
 &nbsp;
 
