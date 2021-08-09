@@ -67,12 +67,10 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 
 
+
 |  <a href="https://t.me/dasun_pamod/"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" width="500px" height="120px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Dasun Pamod ](https://dasunpamo.com)**                                                                                |
-
- 
 |<a href="https://twitter.com/dasun_pamod"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/dasunpamod"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/dasun.pamod.1"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="#"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
-
 
 <!-- Code Clean 0% i know :( i havent enogh time :( -->
