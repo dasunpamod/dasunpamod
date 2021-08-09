@@ -53,7 +53,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <p align="left">
 <a href="https://t.me/dasun_pamod" target="blank"><img align="center" src="https://www.pinclipart.com/picdir/middle/374-3744565_telegram-logo-clipart.png" alt="dasun_pamod" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/dasun_pamod/" target="blank"><img align="center" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-instagram.png?w=585&scale=down" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/Dasun03571140" target="blank"><img align="center" src="https://raw.githubusercontent.com/dasunpamod/dasunpamod/main/clipart2105321.png" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/dasun_pamod" target="blank"><img align="center" src="https://raw.githubusercontent.com/dasunpamod/dasunpamod/main/clipart2105321.png" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/dasun.pamod.1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 ---
@@ -64,6 +64,6 @@ Reach out to me 👓
 |  <a href="https://t.me/dasun_pamod/"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" width="500px" height="120px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Dasun Pamod ](https://t.me/dasun_pamod)**                                                                                |
-|<a href="https://twitter.com/Dasun03571140"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/dasunpamod"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/dasun.pamod.1"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="#"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
+|<a href="https://twitter.com/dasun_pamod"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/dasunpamod"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/dasun.pamod.1"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="#"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
 
 
