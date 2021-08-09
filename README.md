@@ -34,10 +34,6 @@ You can use the website to generate badges: https://shields.io/
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
-<p align="center">
-  <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=dasunpamod" />
-</p>
 
 
 # MOST USED LANGUAGES
@@ -52,6 +48,10 @@ Both apis are in trouble due to the number of requests, if you know any other to
     <img width="50%" align="right" alt="Dasun's github stats" src="https://github-readme-stats.vercel.app/api?username=dasunpamod&show_icons=true&hide_border=true" />
   </a>
   
+<p align="center">
+  <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
+    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=dasunpamod" />
+</p>
 
 # Follow me on
 
