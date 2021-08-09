@@ -12,16 +12,26 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
+# Follow me on
+
+<p align="left">
+<a href="https://t.me/dasun_pamod" target="blank"><img align="center" src="https://www.pinclipart.com/picdir/middle/374-3744565_telegram-logo-clipart.png" alt="dasun_pamod" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/dasun_pamod/" target="blank"><img align="center" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-instagram.png?w=585&scale=down" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/dasun_pamod" target="blank"><img align="center" src="https://raw.githubusercontent.com/dasunpamod/dasunpamod/main/clipart2105321.png" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/dasun.pamod.1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://github.com/dasunpamod" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
+</p>
+
 <!-- Talking about you -->
 **Talking about Personal Stuffs.**
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="center" alt="Github" src="https://user-images.githubusercontent.com/63133683/126859565-d11ba7e3-9ab0-4731-bf0b-42424ccff05c.gif" />
 
-- 👨🏽‍💻 I’m currently working on [github](https://github.com/dasunpamod);
-- 🌱 I’m currently learning Python And PHP; 
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I'm Still Student;
+- 👨🏽‍💻 I’m currently working on [github](https://github.com/dasunpamod)
+- 🌱 I’m currently learning Python And PHP 
+- 💬 Ask me about anything, I am happy to help
+- ⚡️ Fun-Fact: I'm Still Student
 
 # Contact Me
 
@@ -57,15 +67,8 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 
 
-# Follow me on
 
-<p align="left">
-<a href="https://t.me/dasun_pamod" target="blank"><img align="center" src="https://www.pinclipart.com/picdir/middle/374-3744565_telegram-logo-clipart.png" alt="dasun_pamod" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/dasun_pamod/" target="blank"><img align="center" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-instagram.png?w=585&scale=down" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/dasun_pamod" target="blank"><img align="center" src="https://raw.githubusercontent.com/dasunpamod/dasunpamod/main/clipart2105321.png" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/dasun.pamod.1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
----
+------------------------------------------------------------------------------------------------------------------------------------------: |
 
 
 
