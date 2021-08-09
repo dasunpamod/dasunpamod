@@ -38,14 +38,14 @@ Both apis are in trouble due to the number of requests, if you know any other to
  # github readme stats 
 
 <p>
-  <a href="https://github.com/dasunpamod/">
-    <img width="50%" align="right" alt="Dasun's github stats" src="https://github-readme-stats.vercel.app/api?username=dasunpamod" />
+  <a href="https://github.com/dasunpamod/" align = "center" >
+    <img width="50%" align="center" alt="Dasun's github stats" src="https://github-readme-stats.vercel.app/api?username=dasunpamod" />
   </a>
    
 # MOST USED LANGUAGES
 
  <a href="https://github.com/dasunpamod">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunpamod&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunpamod&show_icons=true&hide_border=true" />
 </a> 
 
 
