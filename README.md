@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/dasun_pamod/" target="blank"><img align="center" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-instagram.png?w=585&scale=down" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/dasun_pamod" target="blank"><img align="center" src="https://raw.githubusercontent.com/dasunpamod/dasunpamod/main/clipart2105321.png" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/dasun.pamod.1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://github.com/dasunpamod" target="blank"><img align="right" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://github.com/dasunpamod" target="blank"><img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=dasunpamod123@gmail.com" target="blank"><img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
