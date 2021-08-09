@@ -72,11 +72,4 @@ Reach out to me 👓
 |       **[Dasun Pamod ](https://t.me/dasun_pamod)**                                                                                |
 |<a href="https://twitter.com/Dasun03571140"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/dasunpamod"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/dasun.pamod.1"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="#"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-```text
-Python      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.69 
-HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
-Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
-Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
 
