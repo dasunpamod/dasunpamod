@@ -43,12 +43,14 @@
 
 # Github Stats,
 
+ 
+ ![](https://komarev.com/ghpvc/?username=dasunpamod&color=green)
+ 
 <p>
   <a href="https://github.com/dasunpamod/" align = "center" >
     <img width="50%" align="center" alt="Dasun's github stats" src="https://github-readme-stats.vercel.app/api?username=dasunpamod" />
   </a>
-![](https://komarev.com/ghpvc/?username=dasunpamod&color=green)
-</p> 
+ </p> 
 
 
 
