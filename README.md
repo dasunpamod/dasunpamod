@@ -48,9 +48,10 @@ Both apis are in trouble due to the number of requests, if you know any other to
   
 # MOST USED LANGUAGES
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=dasunpamod)
-  
-<img align="center" width="30%" alt="GIF" src="https://user-images.githubusercontent.com/63133683/126859569-0d58ce47-5148-492e-9f8e-06958bb1b99f.gif" />
+ <a href="https://github.com/dasunpamod" align = "center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunpamod" />
+</a> 
+
 
 
 # Follow me on
@@ -79,7 +80,7 @@ Reach out to me 👓
 
 
 
-
+<img align="center" width="30%" alt="GIF" src="https://user-images.githubusercontent.com/63133683/126859569-0d58ce47-5148-492e-9f8e-06958bb1b99f.gif" />
 
 
 
