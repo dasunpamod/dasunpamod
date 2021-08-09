@@ -22,7 +22,12 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I’m currently learning Python And PHP; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Still Student;
-- 📫 How to reach me: https://t.me/dasun_pamod , dasunpamod123@gmail.com
+
+# Contact Me
+
+<a href="https://t.me/dasun_pamod"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+<a href="https://t.me/dasun_pamod"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png"></a>
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
@@ -61,9 +66,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 ---
 
 
-# Contact Me
 
-<a href="https://t.me/dasun_pamod"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 |  <a href="https://t.me/dasun_pamod/"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" width="500px" height="120px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
