@@ -22,9 +22,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I’m currently learning Python And PHP; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Still Student;
-- 📫 How to reach me: https://t.me/dasun_pamod dasunpamod123@gmail.com
-;
-
+- 📫 How to reach me: https://t.me/dasun_pamod , dasunpamod123@gmail.com
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
