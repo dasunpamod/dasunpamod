@@ -41,18 +41,17 @@ Both apis are in trouble due to the number of requests, if you know any other to
     <img width="50%" align="right" alt="Dasun's github stats" src="https://github-readme-stats.vercel.app/api?username=dasunpamod&show_icons=true&hide_border=true" />
   </a>
   
-<p align="center">
+<p align="left">
   <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
     <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=dasunpamod" />
 </p>
   
- <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/63133683/126859569-0d58ce47-5148-492e-9f8e-06958bb1b99f.gif" />
-
-# MOST USED LANGUAGES
+ # MOST USED LANGUAGES
 
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=dasunpamod)
-
-
+<img align="right"/>
+  
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/63133683/126859569-0d58ce47-5148-492e-9f8e-06958bb1b99f.gif" />
 
 
 # Follow me on
