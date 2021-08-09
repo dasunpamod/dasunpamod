@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/63133683/126859565-d11ba7e3-9ab0-4731-bf0b-42424ccff05c.gif" />
+<img width="50%" align="center" alt="Github" src="https://user-images.githubusercontent.com/63133683/126859565-d11ba7e3-9ab0-4731-bf0b-42424ccff05c.gif" />
 
 - 👨🏽‍💻 I’m currently working on [github](https://github.com/dasunpamod);
 - 🌱 I’m currently learning Python And PHP; 
