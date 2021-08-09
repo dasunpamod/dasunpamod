@@ -53,16 +53,15 @@ Both apis are in trouble due to the number of requests, if you know any other to
   </a>
 
  ![](https://komarev.com/ghpvc/?username=dasunpamod&color=green)
-  
+</p> 
+
 # MOST USED LANGUAGES
 
+<p>
  <a href="https://github.com/dasunpamod">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunpamod&show_icons=true&hide_border=true" />
 </a> 
 </p>
-
-
-
 
 
 
