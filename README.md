@@ -48,9 +48,9 @@ Both apis are in trouble due to the number of requests, if you know any other to
   
  # MOST USED LANGUAGES
 
-![NOICE]<img align="left" width="50%" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunpamod" />
+![NOICE]<img align="left" width="40%" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunpamod" />
   
-<img align="center" width="60%" alt="GIF" src="https://user-images.githubusercontent.com/63133683/126859569-0d58ce47-5148-492e-9f8e-06958bb1b99f.gif" />
+<img align="center" width="50%" alt="GIF" src="https://user-images.githubusercontent.com/63133683/126859569-0d58ce47-5148-492e-9f8e-06958bb1b99f.gif" />
 
 
 # Follow me on
